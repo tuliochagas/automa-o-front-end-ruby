@@ -1,0 +1,3 @@
+# Configura os ambientes
+homolog: URL=http://www.google.com
+prod: URL=https://www.linkedin.com/
